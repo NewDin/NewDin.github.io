@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Smoke Gets in Your Eyes: And Other Lessons from the Crematory
+title: "Smoke Gets in Your Eyes: And Other Lessons from the Crematory"
 ---
 
 **Title**: [Smoke Gets in Your Eyes: And Other Lessons from the Crematory](https://www.goodreads.com/book/show/25189315-smoke-gets-in-your-eyes)
+
 **Author**: [Caitlin Doughty](https://en.wikipedia.org/wiki/Caitlin_Doughty)
+
 **Pages**: 254
 
 **Should you read or not?  Yes, if death discomforts you!**
