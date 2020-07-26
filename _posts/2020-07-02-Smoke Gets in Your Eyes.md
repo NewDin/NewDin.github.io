@@ -2,7 +2,9 @@
 layout: post
 title: "Smoke Gets in Your Eyes: And Other Lessons from the Crematory"
 ---
-
+<p align="center"> 
+<img src="/images/smoke.jpg" width="320" height="500" alt="hbd">
+</p>
 **Title**: [Smoke Gets in Your Eyes: And Other Lessons from the Crematory](https://www.goodreads.com/book/show/25189315-smoke-gets-in-your-eyes)
 
 **Author**: [Caitlin Doughty](https://en.wikipedia.org/wiki/Caitlin_Doughty)
